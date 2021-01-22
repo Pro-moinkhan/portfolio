@@ -1,0 +1,175 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: whitesmoke;
+    width: 100%;
+}
+.menu{
+    float: right;
+    padding:2% 10% 5%;
+
+}
+.mst{
+    color: black;
+    text-decoration: none;
+    padding:15px;
+    font-size: 25px;
+    font-weight: 700;
+    color: darkblue;
+}
+
+/* section 1 */
+
+.buttons{
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: 100;
+    font-family: 'Potta One', cursive;
+    color: white;
+    padding: 20px 40px;
+    border-radius: 10px;
+    background-image: linear-gradient(145deg, skyblue, darkblue);
+}
+.aboutme{
+    padding: 50px;
+    margin-left: 300px;
+    display: inline-block;
+}
+.half_width{
+    float:left;
+    width: 50%;
+    
+}
+.aboutmeimg{
+    width: 60%;
+}
+h1{
+    font-size: 90px;
+    font-weight: 900;
+    color: black;
+    margin-bottom: -10%;
+    font-family: 'Yusei Magic', sans-serif;
+    display: inline-block;
+}
+.addcolor{
+    font-size: 100px;
+    font-weight: 900;
+    color: skyblue;
+    margin-bottom: 2%;
+    font-family: 'Yusei Magic', sans-serif;
+    display: inline;
+}
+p{
+    font-size: 22px;
+    font-family: 'Noto Sans JP', sans-serif;
+    color: darkcyan;
+    width: 80%;
+}
+.button_height{
+    margin-top: 10%;
+}
+
+/* section 2 */
+
+h3{
+    font-size: 40px;
+    font-weight: 800;
+    font-family: 'Coda Caption', sans-serif;
+    color: #363958;
+}
+
+/* letest working project */
+
+.latestcolor{
+    color: skyblue;
+}
+.textalign{
+    font-size: 50px;
+    text-align: center;
+    padding: 150px 0px 120px 0px;
+}
+.letestproject{
+    margin-top: 200px;
+    /* width: 100%; */
+    height: 1100px;
+    background-color: #E5E5E5;
+
+}
+
+/* slices */
+
+.slice3{
+    margin-left: 300px;
+}
+.ltsWrk{
+    width: 26%;
+    height: 590px;
+    float: left;
+    background-color: white;
+    padding: 5px;
+    margin: 20px;
+    border-radius: 20px;
+}
+.divimg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+}
+.lstimg{
+    width: 90%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.lstdiv{
+    text-align: center;
+}
+
+/* sec-4 client */
+.client{
+    height: 300px;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: aqua;
+    width:100%;
+    padding-top: 2%;
+}
+.lastlorem{
+    margin-left: 220px;
+}
+.lstbtn{
+    border: 5px solid skyblue;
+    border-radius: 20px;
+    margin: 120px 40px 100px 50px;
+    
+}
+.lstchat
+    {text-align: center;
+    width: 1280px;
+    height: 318px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url("img/Group_33094_1.png");
+    background-repeat: no-repeat;
+}
+.workin{
+    margin-left:  700px;
+
+}
+h4{
+    color: darkcyan;
+}
+h5{
+    color: darkslategrey;
+}
+.gmail{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.gmlbtn{
+    text-decoration: none;
+}
